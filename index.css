@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  font-weight: bold;
+  background-color: rgb(177, 237, 237);
+}
+
+h1{
+  margin-top: 20px;;
+  margin-bottom: 10px;
+}
+
+h2{
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+button{
+  border: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  
+}
+#increment-btn{
+  background: rgb(214, 87, 87);
+}
+#save-btn{
+  background: rgb(64, 194, 64);
+}
